@@ -1,0 +1,31 @@
+# Firmware build output
+firmware/build/
+
+# AVR artifacts
+*.o
+*.elf
+*.hex
+*.eep
+*.lst
+*.map
+*.lss
+
+# VS Code
+.vscode/*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python server
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js server
+node_modules/
+
+# Environment files
+.env
+.env.*
