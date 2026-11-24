@@ -12,6 +12,7 @@ firmware/build/
 
 # VS Code
 .vscode/*.log
+.vscode/c_cpp_properties.json
 
 # Windows
 Thumbs.db
